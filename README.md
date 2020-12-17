@@ -4,7 +4,7 @@
 
 ### 无开屏广告
 
-<img src="icons/wechat.png" width="100px">
-<img src="icons/alipay.png" width="100px">
-<img src="icons/inm.png" width="100px">
-<img src="icons/starbucks.png" width="100px">
+<img src="icons/wechat.png" width="64px" style="display: inline-block;">
+<img src="icons/alipay.png" width="64px" style="display: inline-block;">
+<img src="icons/inm.png" width="64px" style="display: inline-block;">
+<img src="icons/starbucks.png" width="64px" style="display: inline-block;">
