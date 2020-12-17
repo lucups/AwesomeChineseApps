@@ -4,7 +4,7 @@
 
 ### 无开屏广告
 
-- 微信
-- 支付宝
-- 星巴克
-- 一鸣真鲜奶吧 inm
+<img src="icons/wechat.png" width="100px">
+<img src="icons/alipay.png" width="100px">
+<img src="icons/inm.png" width="100px">
+<img src="icons/starbucks.png" width="100px">
